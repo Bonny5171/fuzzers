@@ -1,0 +1,19 @@
+{
+  "name": "fuzzers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bonny5171/fuzzers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bonny5171/fuzzers/issues"
+  },
+  "homepage": "https://github.com/Bonny5171/fuzzers#readme"
+}

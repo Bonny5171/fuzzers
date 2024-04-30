@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Bonny5171/fuzzers/issues"
   },
-  "homepage": "https://github.com/Bonny5171/fuzzers#readme"
+  "homepage": "https://github.com/Bonny5171/fuzzers#readme",
+  "dependencies": {
+    "pm2": "^5.3.1"
+  }
 }
